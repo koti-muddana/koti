@@ -1,0 +1,13 @@
+console.log('I')
+setTimeout(()=>{
+    console.log('Am');
+},1000)
+    setTimeout(()=>{
+        console.log('Koti');
+    },2000)
+    setTimeout(()=>{
+        console.log('From');
+    },3000)   
+    setTimeout(()=>{
+        console.log('Hyderabad');
+    },4000)
